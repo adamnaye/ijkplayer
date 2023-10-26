@@ -1,4 +1,4 @@
-# ijkplayer
+adam# ijkplayer
 
  Platform | Build Status
  -------- | ------------
